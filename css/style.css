@@ -1,0 +1,145 @@
+.form_login {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: auto;
+  z-index: 8;
+}
+.txtHeadingLogin {
+  font-size: 40px;
+  font-family: "Log in Blog";
+  color: #ffffff;
+  line-height: 1.2;
+  text-align: left;
+  -moz-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  -webkit-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  -ms-transform: matrix( 1.35198807484582,0,0,2.10395013897077,0,0);
+  position: absolute;
+  left: 540px;
+  top: 100px;
+  z-index: 7;
+}
+
+.txtUser {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 322px;
+  padding:8px;
+  top: 160px;
+  width: 231px;
+  height: 40px;
+  z-index: 6;
+}
+.txtPass {
+  border-radius: 10px;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 322px;
+  top: 220px;
+  padding:8px;
+  width: 231px;
+  height: 40px;
+  z-index: 5;
+}
+.txtremember {
+  position: absolute;
+  bottom: 100px;
+  padding:8px;
+  width: px;
+  height: 40px;
+  
+}
+.coverLogo {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 60px;
+  top: 160px;
+  width: 180px;
+  height: 180px;
+  z-index: 4;
+}
+.btnLogin {
+  border-radius: 10px;
+  border:0;
+  background-color: rgb(0, 114, 188);
+  position: absolute;
+  display:inline-block;
+  border-color:rgb(0, 114, 188);
+  left: 322px;
+  top: 315px;
+  width: 231px;
+  height: 40px;
+  z-index: 3;
+}
+.coverLogin {
+  border-radius: 15px;
+  background-color: rgb(000, 000, 000);
+  position: absolute;
+  left: 352px;
+  top: 80px;
+  width: 657px;
+  height: 440px;
+  z-index: 2;
+}
+#call-to-action {
+  background: linear-gradient(rgba(0, 142, 99, 0.1), rgba(0, 0, 0, 0.1)), url(../img/call-to-action-bg.jpg) fixed center center;
+  background-size: cover;
+  padding: 60px 0;
+}
+
+#call-to-action h3 {
+  color: #fff;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+#call-to-action p {
+  color: #fff;
+}
+
+#call-to-action .cta-btn {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 25px;
+  transition: 0.5s;
+  margin-top: 10px;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+#call-to-action .cta-btn:hover {
+  background: #18d26e;
+  border: 2px solid #18d26e;
+}
+.back {
+  font-size: 12px;
+  font-family: "Arial";
+  color: rgb(0, 0, 0);
+  line-height: 1.2;
+  text-align: left;
+  position: absolute;
+  left: 397px;
+  top: 576.674px;
+  z-index: 9;
+}
+.footer {
+width:1450px;
+color:#ffffff;
+clear:both;
+margin:0 auto;
+background:#000000;
+padding-top:100px;
+line-height: 1.6em;
+text-transform:arial;
+letter-spacing:.2em;
+text-align: center;
+font-size:90%;
+}
